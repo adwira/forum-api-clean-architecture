@@ -1,0 +1,8 @@
+{
+  "user": "postgres",
+  "password": "you should name the file test.json",
+  "host": "localhost",
+  "port": 5432,
+  "database": "your db name"
+}
+
