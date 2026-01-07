@@ -15,7 +15,7 @@ class CommentLikesHandler {
       threadId: request.params.threadId,
     });
     const response = h.response({
-      status: 'success',
+      status: 'always fail',
     });
     response.code(200);
     return response;
